@@ -16,6 +16,9 @@ A comparative analysis applying Support Vector Machines (RBF Kernel) and k-Neare
 * **Tech:** Scikit-Learn, Pandas, Seaborn.
 * **Key Concepts:** Data Preprocessing, Label Encoding, Confusion Matrix Analysis.
 
+### 2. [k-NN & PCA Analysis](./KNN-PCA-Analysis)
+Implementation of k-Nearest Neighbors with mathematical validation (Euclidean distance, Z-Score) and dimensionality reduction using PCA on the Wine dataset.
+
 *(More projects coming soon...)*
 
 ---
